@@ -1,0 +1,5 @@
+"C:\Program Files\MongoDB\Server\4.2\bin\mongod.exe"
+"C:\Users\BestBuy1055\Desktop\Full_Stack_Development\DB\MongoDB-Data"
+P@nneer5
+
+mongodb+srv://blackHole_whiteStar:<password>@cluster0.iln1c.mongodb.net/test
